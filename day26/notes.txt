@@ -1,0 +1,38 @@
+1.NLP
+2.NLTK
+3.Stanford NLP
+4.Vader
+5.sentiment analysis
+6.neutral
+7.noise words,stop words,stemming
+8.third form
+9.onehot encoding
+CONVERTING TEXT INT NUMERIC FORM->
+10.Bag of words MODEL
+good place
+nice one
+good place nice one
+1	1   0   0
+0       0   1   1
+11.TFIDF
+12.bag vagend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
